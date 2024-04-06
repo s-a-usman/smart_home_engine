@@ -1,2 +1,2 @@
 # smart_home_engine
-Hardware files for my smart home project. Hardware can be integrated with Apple Home, Google Home, Home Assistant and MQTT.
+A home automation device for remote control of multiple appliances, switches, and gadgets to a central hardware hub in a given area. Device can be integrated with Apple Home, Google Home, Home Assistant, and MQTT.
